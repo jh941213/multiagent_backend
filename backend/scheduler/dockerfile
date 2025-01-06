@@ -12,9 +12,9 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # 환경 변수 설정
-ENV PSQL_DATABASE=stockhelper \
-    PSQL_USERNAME=kdb \
-    PSQL_PASSWORD=1234 \
+ENV PSQL_DATABASE=database \
+    PSQL_USERNAME=name \
+    PSQL_PASSWORD=pw \
     PSQL_HOST=localhost \
     PSQL_PORT=5432 \
     PSQL_SSLMODE=disable

@@ -1,0 +1,27 @@
+FROM python:3.9-slim
+
+WORKDIR /app/scheduler
+
+# 필요한 시스템 패키지 설치
+RUN apt-get update && apt-get install -y \
+    gcc \
+    && rm -rf /var/lib/apt/lists/*
+
+# 필요한 Python 패키지 설치
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 환경 변수 설정
+ENV PSQL_DATABASE=stockhelper \
+    PSQL_USERNAME=kdb \
+    PSQL_PASSWORD=1234 \
+    PSQL_HOST=localhost \
+    PSQL_PORT=5432 \
+    PSQL_SSLMODE=disable
+
+# 스케줄러 관련 파일들 복사 
+COPY constants.py .
+COPY scheduler.py .
+
+# 스케줄러 실행
+CMD ["python", "scheduler.py"]

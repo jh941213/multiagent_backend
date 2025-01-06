@@ -1,0 +1,24 @@
+2025-01-01 19:15:13,321 - agents.finance_agent - INFO - 금융 정보 검색 에이전트 생성 시작
+2025-01-01 19:15:13,334 - agents.finance_agent - INFO - 도구 초기화 완료
+2025-01-01 19:15:13,396 - agents.finance_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:15:13,397 - agents.finance_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:15:13,397 - agents.finance_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:15:23,021 - agents.finance_agent - INFO - LLM 응답 생성 완료
+2025-01-01 19:15:23,021 - agents.finance_agent - INFO - 도구 vector_db_search 실행
+2025-01-01 19:15:27,527 - agents.finance_agent - INFO - LLM 응답 생성 완료
+2025-01-01 19:16:20,090 - agents.finance_agent - INFO - 금융 정보 검색 에이전트 생성 시작
+2025-01-01 19:16:20,102 - agents.finance_agent - INFO - 도구 초기화 완료
+2025-01-01 19:16:20,166 - agents.finance_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:16:20,166 - agents.finance_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:16:20,167 - agents.finance_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:16:26,082 - agents.finance_agent - INFO - LLM 응답 생성 완료
+2025-01-01 19:16:26,084 - agents.finance_agent - INFO - 도구 vector_db_search 실행
+2025-01-01 19:16:32,450 - agents.finance_agent - INFO - LLM 응답 생성 완료
+2025-01-01 19:20:45,450 - agents.finance_agent - INFO - 금융 정보 검색 에이전트 생성 시작
+2025-01-01 19:20:45,463 - agents.finance_agent - INFO - 도구 초기화 완료
+2025-01-01 19:20:45,528 - agents.finance_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:20:45,528 - agents.finance_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:20:45,529 - agents.finance_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:20:51,157 - agents.finance_agent - INFO - LLM 응답 생성 완료
+2025-01-01 19:20:51,158 - agents.finance_agent - INFO - 도구 vector_db_search 실행
+2025-01-01 19:20:57,453 - agents.finance_agent - INFO - LLM 응답 생성 완료

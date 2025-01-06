@@ -1,0 +1,62 @@
+2025-01-01 19:09:49,493 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:09:49,699 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:09:49,711 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:09:49,711 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:09:49,711 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:09:52,076 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:09:52,077 - agents.super_agent - INFO - 금융 에이전트 노드 실행
+2025-01-01 19:10:58,520 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:10:58,703 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:10:58,715 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:10:58,715 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:10:58,715 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:10:59,231 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:10:59,232 - agents.super_agent - INFO - 금융 에이전트 노드 실행
+2025-01-01 19:11:57,590 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:11:57,882 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:11:57,894 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:11:57,894 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:11:57,895 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:12:00,807 - agents.super_agent - INFO - 라우팅 결정: CHAT
+2025-01-01 19:12:07,451 - agents.super_agent - INFO - 라우팅 결정: MarketAgent
+2025-01-01 19:12:10,817 - agents.super_agent - INFO - 시장 분석 에이전트 응답 완료
+2025-01-01 19:12:29,864 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:12:29,865 - agents.super_agent - INFO - 금융 에이전트 노드 실행
+2025-01-01 19:14:02,975 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:14:03,157 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:14:03,169 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:14:03,170 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:14:03,170 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:14:09,303 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:14:09,304 - agents.super_agent - INFO - 금융 에이전트 노드 실행
+2025-01-01 19:15:13,321 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:15:13,505 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:15:13,516 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:15:13,517 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:15:13,517 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:15:17,088 - agents.super_agent - INFO - 라우팅 결정: CHAT
+2025-01-01 19:15:22,205 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:15:22,206 - agents.super_agent - INFO - 금융 에이전트 노드 실행
+2025-01-01 19:16:20,089 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:16:20,279 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:16:20,291 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:16:20,291 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:16:20,291 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:16:25,051 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:16:25,053 - agents.super_agent - INFO - 금융 에이전트 노드 실행
+2025-01-01 19:20:45,450 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:20:45,659 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:20:45,671 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:20:45,671 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:20:45,671 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:20:50,536 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:20:50,537 - agents.super_agent - INFO - 금융 에이전트 노드 실행
+2025-01-01 19:27:05,527 - agents.super_agent - INFO - 슈퍼바이저 에이전트 생성 시작
+2025-01-01 19:27:05,714 - agents.super_agent - INFO - 하위 에이전트 초기화 완료
+2025-01-01 19:27:05,725 - agents.super_agent - INFO - LLM 모델 초기화 완료
+2025-01-01 19:27:05,726 - agents.super_agent - INFO - 워크플로우 그래프 구성 시작
+2025-01-01 19:27:05,726 - agents.super_agent - INFO - 워크플로우 그래프 구성 완료
+2025-01-01 19:27:17,188 - agents.super_agent - INFO - 라우팅 결정: MarketAgent
+2025-01-01 19:27:20,349 - agents.super_agent - INFO - 시장 분석 에이전트 응답 완료
+2025-01-01 19:27:27,209 - agents.super_agent - INFO - 라우팅 결정: FinanceAgent
+2025-01-01 19:27:27,211 - agents.super_agent - INFO - 금융 에이전트 노드 실행

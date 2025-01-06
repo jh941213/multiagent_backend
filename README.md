@@ -29,22 +29,22 @@
 
 ## 🛠 Key Features
 
-1. **Real-time market analysis
+1. **Real-time market analysis**
    - Get real-time stock price data
    - Technical indicator analysis
    - Analyze chart patterns
 
-2. **Financial Information Search
+2. **Financial Information Search**
    - Vector DB-based information search
    - Context-based response generation
    - Financial counseling service
 
-3. **Research report generation
+3. **Research report generation**
    - Human-in-the-loop collaboration
    - Integrate expert analysis
    - Generate structured reports
 
-4. **Multimodal Analytics
+4. **Multimodal Analytics**
    - Chart image analysis
    - YouTube content search
    - News data integration
